@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marina22Smirnova.
-- 👀 I’m interested in IT sphere. 
-- 🌱 I’m currently learning Html and develop my knowledge in java.
+- 👀 I’m interested in IT sphere especially in Quality Assurance. 
+- 🌱 I’m currently develop my knowledge in java and HTML.
 - 💞️ I’m looking to collaborate on various projects for QA.
 - 📫 Feel free to contact me on marina_bessonova@mail.ru and via Telegram @MarinaSmirnova85.
 
